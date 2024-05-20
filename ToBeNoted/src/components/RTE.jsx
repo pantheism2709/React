@@ -14,7 +14,7 @@ export default function RTE({name, control, label, defaultValue =""}) {
     render={({field: {onChange}}) => (
         <Editor
 
-        apiKey=''  // enter your TinyMce api key here
+        apiKey='aj0vjzrhsfiruv05wm3zy5nvgvooqc0froejhg31xv4fyeef'
 
         initialValue={defaultValue}
         init={{
